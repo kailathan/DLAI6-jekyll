@@ -1,0 +1,21 @@
+# edit the website content below
+
+info: > 
+  Deep Learning and Artificial Intelligence Summer School 2022 (DLAI6) 
+  14 - 18 June 2022, Online virtually (ICT time) 
+  15 days 13 hours 52 minutes 50 seconds
+  NEWS
+
+registration: >
+  [13 May 2022] Registration is now open here!
+
+about: >
+  The concept of deep learning (DL) has been known in the neural network community for well over a decade already. 
+  With the onset of more affordable powerful computing facilities, especially the prevalence of graphical processing units (GPUs) and tensor processing units (TPUs), 
+  DL has been applied successfully and effectively in many state-of-the-art applications including computer vision, speech recognition, object detection, drug discovery, and so on. 
+  More recently, the techniques in DL/AI are leveraged for the current COVID-19 pandemic, including in the rapid vaccine development processes. 
+  DL basically uses deep neural network architecture with multiple layers to represent data with increasing abstraction and may be applied to supervised, unsupervised, as well as reinforcement learning. 
+  Perhaps DL can be viewed in a literature sense for providing deeper insights into learning systems in general, as it continues to be one of the fastest growing and evolving fields of AI research.
+  Current researches include deployment for COVID-19; however, there are more and more emphasis on the explainable and ethical AI aspects as well now. 
+  Our panel session will take a closer look at future deep learning machines inspired by the human brain. 
+  
