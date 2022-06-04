@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "welcome to jekyll"
-description: "does this override the description"
+description: "the description"
 date:   2022-05-29 14:57:48 -0400
 categories: jekyll cat2
 permalink: welcome
